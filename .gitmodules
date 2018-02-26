@@ -1,4 +1,4 @@
 [submodule ".tests"]
 	path = .tests
-	url = https://github.com/xbmc/addon-check.git
-	branch = master
+	url = https://github.com/razzeee/addon-check.git
+	branch = auto-comment
